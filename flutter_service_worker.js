@@ -1,1 +1,1 @@
-// SW simulado
+// service worker simulado
