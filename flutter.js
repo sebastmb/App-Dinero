@@ -1,0 +1,1 @@
+window._flutter = { loader: { loadEntrypoint: (cfg) => cfg.onEntrypointLoaded({ initializeEngine: () => Promise.resolve({ runApp: () => document.body.innerHTML += '<h2 style=color:green>¡App Dinero funcionando!</h2>' }) }) } };
