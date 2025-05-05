@@ -1,1 +1,0 @@
-// Código simulado de Flutter
